@@ -1,5 +1,5 @@
 # EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:11/11/2025
+## DATE:17/11/2025
 
 ## AIM:
 To create a 3D model from given orthographic projection.
